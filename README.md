@@ -31,5 +31,5 @@ If he guesses the number correctly, we congratulate him with the message: 'Oh! Y
 
     Retry [y/n] ? n
 ## Author
-Alaa Amer                                                                                                                                                                                                               
-Rahaf Fayez
+[Alaa Amer](https://github.com/AlaaMohamedAmer)                                                                                                                                                                
+[Rahaf Fayez](https://github.com/rahaffayez)
